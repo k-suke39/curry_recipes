@@ -31,6 +31,7 @@ akuma_curry = Curry.new(kakushiaji: "焼き鳥")
 akuma_curry.yummy?
 p akuma_curry.recipe
 Curry.menus
+#やっぱり美味しかった！！！
 
 #Aさんレシピ考案中！！！
 #Aさんレシピ考案中ver2！！！
