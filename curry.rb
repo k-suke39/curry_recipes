@@ -33,6 +33,7 @@ Curry.menus
 #Curry.menus
 
 #Aさんレシピ考案中！！！
+#Aさんレシピ考案中ver2！！！
 
 
 
